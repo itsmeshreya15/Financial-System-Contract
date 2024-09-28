@@ -107,7 +107,9 @@ After this, the project will be running on your localhost.
 Typically at http://localhost:3000/
 
 ## Author
-Name: Gurnoor Oberoi
+Name: Shreya Kandpal
+## Video Explanation
+https://www.loom.com/share/e01b4df0a1ea439db2d580e6e9d3f850?sid=31f76152-8358-4b1b-ac9b-cc1e46e415b3
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
